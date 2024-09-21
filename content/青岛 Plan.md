@@ -11,13 +11,20 @@ child:
 [高德地图链接](https://guinness.autonavi.com/activity/2020CommonLanding/index.html?id=default&local=1&logId=&logParams=&gd_from=jinisi&schema=amapuri%3A%2F%2Fajx_favorites%2Ffolder%3Fdata%3D%257B%2522ugcId%2522%253A%252212241579040161286110%2522%252C%2522forceCustom%2522%253Atrue%252C%2522pathId%2522%253A6%252C%2522isCreatorShare%2522%253Atrue%257D&share_from=favorites_FavoriteFolder&share_from_type=AJX&share_type=image&share_lastClickSpm=)
 
 必打卡点:
-- 小麦岛公园⛲️
+- 小麦岛公园⛲️: 人比较多
+- 海之恋公园 (小麦岛平替): [实景vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=1188)
+	- 附近: 
+		- 乐邦娜：日本人开的面包房
 - 第二海水浴场🌊
 - 黄岛🏝️
-- 海之恋公园
 
 待观察点:
+- 栈桥: [栈桥实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=555)
+- 信号山: [信号山实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=631)
+- 总督府: [总督府实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=708)
+- 八大关: [八大关 vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=877)
 - ...
+
 
 
 酒店:
@@ -27,3 +34,30 @@ child:
 		- 帆船: [青岛海怡帆船酒店](https://hotels.ctrip.com/hotels/detail/?hotelId=5073091&checkIn=2024-10-02&checkOut=2024-10-06&cityId=7&minprice=&mincurr=&adult=2&children=0&ages=&crn=2&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=)
 		- 海天: [青岛海天大酒店【携程酒店】](https://hotels.ctrip.com/hotels/detail/?hotelId=6740319&checkIn=2024-10-02&checkOut=2024-10-06&cityId=7&minprice=&mincurr=&adult=2&children=0&ages=&crn=2&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=)
 - ...
+
+视频路线:
+- D1: 大鲍岛街区 -> 教堂 -> 中山路(步行街。。。) -> 栈桥 -> 信号山 -> 总督府 -> 龙江路(网红打卡墙？) -> 一浴 -> 八大关街区 -> 二浴 -> 花石楼 -> 小鱼山公园 (缆车)
+- D2: 海之恋公园 -> 石老人
+
+
+## 吃喝
+- 强麦酒吧
+- 王姐烧烤（中山路）
+- 九龙餐厅: [vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=1915)
+- 双合园
+
+市场可以买 嘎拉 蛎虾 海肠（捞饭）微贵但必吃
+
+梭子蟹（秋天好）南京路宁夏路 夜宵
+
+弹幕评论美食推荐 锅贴 炉包 甜沫 脂渣 海鲜蒸锅
+
+戳子肉
+
+## 伴手礼
+伴手礼推荐 崂山的茶（绿茶，全国纬度最高的绿茶）流亭猪蹄 郑庄脂渣
+
+
+
+## 新奇玩意
+- 崂山白花蛇草水
