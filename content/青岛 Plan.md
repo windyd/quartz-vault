@@ -30,6 +30,8 @@ child:
 - 八大关: [八大关 vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=877)
 - 青岛啤酒博物馆：[vid](https://www.bilibili.com/video/BV1RF41197aM/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=439)
 	- 大众点评团购 69: 包品鉴票+伴手礼(3x啤酒，伴酒豆)
+- [[青岛 Plan#大学路-龙江路-鱼山路|大学路-龙江路-鱼山路]]
+- [[青岛 Plan#琴屿路-鲁迅公园|琴屿路-鲁迅公园]]
 - ...
 
 
@@ -47,7 +49,7 @@ child:
 [为家乡打Call！！老张私人推荐，来青岛玩看这一个视频就够了！哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fx4y1s7oL/?spm_id_from=333.337.search-card.all.click&vd_source=77e751f98cedfb485e319e80c73237de)
 
 视频路线:
-- D1: 大鲍岛街区 -> 教堂 -> ~~中山路(步行街。。。)~~ -> ~~栈桥~~ -> 信号山 -> 总督府 -> 龙江路(网红打卡墙？) -> 一浴 -> 八大关街区 -> 二浴 -> 花石楼 -> 小鱼山公园 (缆车)
+- D1: 大鲍岛街区 -> 教堂 -> ~~中山路(步行街。。。)~~ -> ~~栈桥~~ -> 信号山 -> 总督府 -> 龙江路(网红打卡墙？) -> ~~一浴~~ -> 八大关街区 -> 二浴 -> 花石楼 -> 小鱼山公园 (缆车)
 - D2: 海之恋公园 -> 石老人
 
 
