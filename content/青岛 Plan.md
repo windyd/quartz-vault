@@ -16,13 +16,20 @@ child:
 	- 附近: 
 		- 乐邦娜：日本人开的面包房
 - 第二海水浴场🌊
+	- 附近:
+		- 麦凯乐商圈找吃的
 - 黄岛🏝️
+- 教堂：
+	- 附近：
+		- 九龙餐厅
 
 待观察点:
 - 栈桥: [栈桥实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=555)
 - 信号山: [信号山实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=631)
 - 总督府: [总督府实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=708)
 - 八大关: [八大关 vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=877)
+- 青岛啤酒博物馆：[vid](https://www.bilibili.com/video/BV1RF41197aM/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=439)
+	- 大众点评团购 69: 包品鉴票+伴手礼(3x啤酒，伴酒豆)
 - ...
 
 
@@ -35,11 +42,34 @@ child:
 		- 海天: [青岛海天大酒店【携程酒店】](https://hotels.ctrip.com/hotels/detail/?hotelId=6740319&checkIn=2024-10-02&checkOut=2024-10-06&cityId=7&minprice=&mincurr=&adult=2&children=0&ages=&crn=2&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=)
 - ...
 
+
+## 视频参考
+[为家乡打Call！！老张私人推荐，来青岛玩看这一个视频就够了！哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Fx4y1s7oL/?spm_id_from=333.337.search-card.all.click&vd_source=77e751f98cedfb485e319e80c73237de)
+
 视频路线:
-- D1: 大鲍岛街区 -> 教堂 -> 中山路(步行街。。。) -> 栈桥 -> 信号山 -> 总督府 -> 龙江路(网红打卡墙？) -> 一浴 -> 八大关街区 -> 二浴 -> 花石楼 -> 小鱼山公园 (缆车)
+- D1: 大鲍岛街区 -> 教堂 -> ~~中山路(步行街。。。)~~ -> ~~栈桥~~ -> 信号山 -> 总督府 -> 龙江路(网红打卡墙？) -> 一浴 -> 八大关街区 -> 二浴 -> 花石楼 -> 小鱼山公园 (缆车)
 - D2: 海之恋公园 -> 石老人
 
 
+[送你一份超详细的青岛三日旅游攻略 | 内含图文版_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1RF41197aM/?spm_id_from=333.337.search-card.all.click&vd_source=77e751f98cedfb485e319e80c73237de)
+
+里面比较有参考意义的点
+- [[青岛 Plan#大学路-龙江路-鱼山路|大学路-龙江路-鱼山路]]
+- [[青岛 Plan#琴屿路-鲁迅公园|琴屿路-鲁迅公园]]
+
+## Spots
+
+### 大学路-龙江路-鱼山路
+[vid](https://www.bilibili.com/video/BV1RF41197aM/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=134)
+
+打卡点
+- 网红转角: 不需要挤在转角位置拍
+- 老舍故居
+
+
+### 琴屿路-鲁迅公园
+打卡点
+- 礁石(大可不必)
 ## 吃喝
 - 强麦酒吧
 - 王姐烧烤（中山路）
