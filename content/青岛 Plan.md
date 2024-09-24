@@ -24,15 +24,17 @@ child:
 		- 九龙餐厅
 
 待观察点:
-- 栈桥: [栈桥实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=555)
 - 信号山: [信号山实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=631)
 - 总督府: [总督府实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=708)
 - 八大关: [八大关 vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=877)
 - 青岛啤酒博物馆：[vid](https://www.bilibili.com/video/BV1RF41197aM/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=439)
 	- 大众点评团购 69: 包品鉴票+伴手礼(3x啤酒，伴酒豆)
 - [[青岛 Plan#大学路-龙江路-鱼山路|大学路-龙江路-鱼山路]]
-- [[青岛 Plan#琴屿路-鲁迅公园|琴屿路-鲁迅公园]]
 - ...
+
+低优先级:
+- 栈桥: [栈桥实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=555)
+- [[青岛 Plan#琴屿路-鲁迅公园|琴屿路-鲁迅公园]]
 
 
 
