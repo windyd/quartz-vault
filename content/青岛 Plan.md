@@ -5,6 +5,7 @@ ReviewedDate: "[[Daily_Notes/21-09-24]]"
 tags:
   - state/process
   - my/life
+  - travel/青岛
 child:
 ---
 
@@ -19,6 +20,7 @@ child:
 	- 附近:
 		- 麦凯乐商圈找吃的
 - 黄岛🏝️
+	- [[黄海 Info]]
 - 教堂：
 	- 附近：
 		- 九龙餐厅
