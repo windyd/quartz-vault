@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Windyd's Garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+On Going:
+
+- [[青岛 Plan]]
