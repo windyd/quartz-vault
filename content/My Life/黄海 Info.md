@@ -18,3 +18,9 @@ child:
 电车环岛路线(起点: 爱尚车电动车租赁维修...)
 
 ![[Pasted image 20240924223303.png|400]]
+
+## 租车
+
+参考价格: 
+- 晚上 9 点前还车，60 [xhs link](https://www.xiaohongshu.com/discovery/item/66dc56050000000012011396?source=webshare&xsec_token=ABtiXyjLetWwUba72ZNVVD8h7aSjpg5FX2TlXSrkutjy4=&xsec_source=pc_share)
+
