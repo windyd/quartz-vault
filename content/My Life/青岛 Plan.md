@@ -11,34 +11,41 @@ child:
 
 [高德地图链接](https://guinness.autonavi.com/activity/2020CommonLanding/index.html?id=default&local=1&logId=&logParams=&gd_from=jinisi&schema=amapuri%3A%2F%2Fajx_favorites%2Ffolder%3Fdata%3D%257B%2522ugcId%2522%253A%252212241579040161286110%2522%252C%2522forceCustom%2522%253Atrue%252C%2522pathId%2522%253A6%252C%2522isCreatorShare%2522%253Atrue%257D&share_from=favorites_FavoriteFolder&share_from_type=AJX&share_type=image&share_lastClickSpm=)
 
-必打卡点:
+## 必打卡点
+### 1. 海之恋附近
 - 小麦岛公园⛲️: 人比较多
 - 海之恋公园 (小麦岛平替): [实景vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=1188)
 	- 附近: 
 		- 乐邦娜：日本人开的面包房
-- 第二海水浴场🌊
-	- 附近:
-		- 麦凯乐商圈找吃的
-- 黄岛🏝️
-	- [[黄海 Info]]
+### 2. 从教堂到小鱼山 (可分为两天)
+
+**完整路线**: 大鲍岛街区 -> 教堂 -> 信号山 -> 总督府 -> [[青岛 Plan#大学路-龙江路-鱼山路|大学路-龙江路-鱼山路]]-> 八大关街区 -> 二浴 -> 花石楼 -> 小鱼山公园 (缆车)
+
 - 教堂：
 	- 附近：
 		- 九龙餐厅
-
-待观察点:
+		- 王姐烧烤(中山路)
+- 第二海水浴场🌊
+	- 附近:
+		- 麦凯乐商圈找吃的
 - 信号山: [信号山实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=631)
 - 总督府: [总督府实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=708)
 - 八大关: [八大关 vid](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=877)
 - 青岛啤酒博物馆：[vid](https://www.bilibili.com/video/BV1RF41197aM/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=439)
 	- 大众点评团购 69: 包品鉴票+伴手礼(3x啤酒，伴酒豆)
 - [[青岛 Plan#大学路-龙江路-鱼山路|大学路-龙江路-鱼山路]]
-- ...
 
-低优先级:
-- 栈桥: [栈桥实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=555)
-- [[青岛 Plan#琴屿路-鲁迅公园|琴屿路-鲁迅公园]]
+暂时不确定在哪里
+- 人民会堂 c 口？看啥
+- 燕儿岛智慧公园
+### 3. 黄岛
+见 [[黄海 Info]]
+### 4. 其他
+> [!NOTE]- 低优先级
+> - 栈桥: [栈桥实景 video](https://www.bilibili.com/video/BV1Fx4y1s7oL/?share_source=copy_web&vd_source=416fce306afaf6248c52826e1961a5f0&t=555)
+> - [[青岛 Plan#琴屿路-鲁迅公园|琴屿路-鲁迅公园]]
 
-
+## 酒店选择
 
 酒店:
 - 高级酒店:
