@@ -31,6 +31,7 @@ enableToC: "True"
 	- 附近：
 		- 九龙餐厅
 		- 王姐烧烤(中山路)
+		- 强麦酒吧
 - 第二海水浴场🌊
 	- 附近:
 		- 麦凯乐商圈找吃的
@@ -56,7 +57,7 @@ enableToC: "True"
 		- 瑞吉酒店: [青岛瑞吉酒店【携程酒店】](https://hotels.ctrip.com/hotels/detail/?hotelId=78286701&checkIn=2024-10-02&checkOut=2024-10-03&cityId=7&minprice=&mincurr=&adult=2&children=0&ages=&crn=1&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=)
 		- 帆船: [青岛海怡帆船酒店](https://hotels.ctrip.com/hotels/detail/?hotelId=5073091&checkIn=2024-10-02&checkOut=2024-10-06&cityId=7&minprice=&mincurr=&adult=2&children=0&ages=&crn=2&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=)
 		- 海天: [青岛海天大酒店【携程酒店】](https://hotels.ctrip.com/hotels/detail/?hotelId=6740319&checkIn=2024-10-02&checkOut=2024-10-06&cityId=7&minprice=&mincurr=&adult=2&children=0&ages=&crn=2&curr=&fgt=&stand=&stdcode=&hpaopts=&mproom=&ouid=&shoppingid=&roomkey=&highprice=-1&lowprice=0&showtotalamt=&hotelUniqueKey=)
-- ...
+- 全季酒店
 
 
 ## 视频参考
