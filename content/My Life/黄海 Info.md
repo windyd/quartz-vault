@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - 黄岛 Info
 cssclasses: 
 ReviewedDate: "[[Daily_Notes/24-09-24]]"
 tags:
