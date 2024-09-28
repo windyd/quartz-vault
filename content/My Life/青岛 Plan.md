@@ -12,10 +12,6 @@ enableToC: "True"
 
 [高德地图链接](https://guinness.autonavi.com/activity/2020CommonLanding/index.html?id=default&local=1&logId=&logParams=&gd_from=jinisi&schema=amapuri%3A%2F%2Fajx_favorites%2Ffolder%3Fdata%3D%257B%2522ugcId%2522%253A%252212241579040161286110%2522%252C%2522forceCustom%2522%253Atrue%252C%2522pathId%2522%253A6%252C%2522isCreatorShare%2522%253Atrue%257D&share_from=favorites_FavoriteFolder&share_from_type=AJX&share_type=image&share_lastClickSpm=)
 
-```dataview
-LIST map(file.outlinks, (link) => meta(link).path )
-WHERE file = this.file
-```
 ## 计划
 ### 2号: 八大关附近
 ![[IMG_4056.png|300]]
@@ -127,3 +123,10 @@ WHERE file = this.file
 
 ## 新奇玩意
 - 崂山白花蛇草水
+
+
+> [!NOTE]- Dataview
+> ```dataview
+> LIST map(file.outlinks, (link) => meta(link).path )
+> WHERE file = this.file
+> ```
