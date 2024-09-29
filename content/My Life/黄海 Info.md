@@ -38,5 +38,7 @@ child:
 - [南越租车·品牌电动车租赁,4.8分,费用:¥67,综合租赁](https://m.dianping.com/shopshare/k3JSrH6cWiobcRHI?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=ZYr1Wv3Dcr_1727626040)
 	- ![[Pasted image 20240930000703.png|300]] 
 	- 特点: 有三轮车
+- [九万里·网红电动车租赁·露营帐篷,4.8分,费用:¥68,综合租赁](https://m.dianping.com/shopshare/l38cMMdAOitKAAj0?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=LASP8y9udj_1727626235)
+	- ![[Pasted image 20240930001024.png|400]]
 - 两个车行都很近
 	![[Pasted image 20240929234826.png|300]]
