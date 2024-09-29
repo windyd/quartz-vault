@@ -27,7 +27,13 @@ child:
 
 租车点 都在金沙滩附近（黄岛的沿岸的中间）: 
 - [迅之光车行租电动车·租车,4.8分,费用:¥49,综合租赁](https://m.dianping.com/shopshare/H7MA9awLJUk73S7c?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=lpl69gtBVe_1727624637)
-- ![[Pasted image 20240929234826.png]]
+	- 点貌似比较多
+	- ![[Pasted image 20240929235630.png|300]]
+- [爱尚车行·电动车租赁,费用:¥46,综合租赁](https://m.dianping.com/shopshare/i8U3YZ32k4gsRD0B?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=Ui7jO7j1ob_1727625111)
+	- 看起来更便宜
+	- ![[Pasted image 20240929235744.png|300]]
+- 两个车行都很近
+	![[Pasted image 20240929234826.png|200]]
 
 
 
