@@ -23,6 +23,16 @@ child:
 ### Option2: 黄岛西
 > ref:: [【爆🔥的黄岛小黄花路线攻略 - 摄影师-李斯特 小助理 | 小红书 - 你的生活指南】](https://www.xiaohongshu.com/discovery/item/6663c583000000000e032b2d?source=webshare&xhsshare=pc_web&xsec_token=ABKjn2HW-yv0J8IoCxzcnzQ8TMqWPG2ZJng6P6k_BpKUM=&xsec_source=pc_share)
 
+
+
+租车点 都在金沙滩附近（黄岛的沿岸的中间）: 
+- [迅之光车行租电动车·租车,4.8分,费用:¥49,综合租赁](https://m.dianping.com/shopshare/H7MA9awLJUk73S7c?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=lpl69gtBVe_1727624637)
+- ![[Pasted image 20240929234826.png]]
+
+
+
+本路线的起点在 [[黄海 Info#Option 1]] 的下面
+
 ![[Pasted image 20240928214402.png|400]]
 
 ## 租车
