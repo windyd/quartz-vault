@@ -29,16 +29,11 @@ child:
 
 ## 租车
 租车点 都在金沙滩附近（黄岛的沿岸的中间）: 
-- [迅之光车行租电动车·租车,4.8分,费用:¥49,综合租赁](https://m.dianping.com/shopshare/H7MA9awLJUk73S7c?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=lpl69gtBVe_1727624637)
-	- 特点：还车点貌似比较多
-	- ![[Pasted image 20240929235630.png|300]]
-- [爱尚车行·电动车租赁,费用:¥46,综合租赁](https://m.dianping.com/shopshare/i8U3YZ32k4gsRD0B?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=Ui7jO7j1ob_1727625111)
-	- 特点：看起来更便宜
-	- ![[Pasted image 20240929235744.png|300]]
-- [南越租车·品牌电动车租赁,4.8分,费用:¥67,综合租赁](https://m.dianping.com/shopshare/k3JSrH6cWiobcRHI?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=ZYr1Wv3Dcr_1727626040)
-	- ![[Pasted image 20240930000703.png|300]] 
-	- 特点: 有三轮车
-- [九万里·网红电动车租赁·露营帐篷,4.8分,费用:¥68,综合租赁](https://m.dianping.com/shopshare/l38cMMdAOitKAAj0?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=LASP8y9udj_1727626235)
-	- ![[Pasted image 20240930001024.png|400]]
-- 两个车行都很近
-	![[Pasted image 20240929234826.png|300]]
+![[Pasted image 20240929234826.png|300]]
+
+| 车店                                                                                                                                                                                                           | 特点       | 价格图                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ----------------------------------------- |
+| [迅之光车行租电动车·租车,4.8分,费用:¥49,综合租赁](https://m.dianping.com/shopshare/H7MA9awLJUk73S7c?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=lpl69gtBVe_1727624637)     | 还车点貌似比较多 | ![[Pasted image 20240929235630.png\|200]] |
+| [爱尚车行·电动车租赁,费用:¥46,综合租赁](https://m.dianping.com/shopshare/i8U3YZ32k4gsRD0B?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=Ui7jO7j1ob_1727625111)            | 看起来更便宜   | ![[Pasted image 20240929235744.png\|200]] |
+| [南越租车·品牌电动车租赁,4.8分,费用:¥67,综合租赁](https://m.dianping.com/shopshare/k3JSrH6cWiobcRHI?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=ZYr1Wv3Dcr_1727626040)     | 有三轮车     | ![[Pasted image 20240930000703.png\|200]] |
+| [九万里·网红电动车租赁·露营帐篷,4.8分,费用:¥68,综合租赁](https://m.dianping.com/shopshare/l38cMMdAOitKAAj0?msource=Appshare2021&utm_source=shop_share&shoptype=65&shopcategoryid=50115&isoversea=0&shareid=LASP8y9udj_1727626235) | 车子看起来比较帅 | ![[Pasted image 20240930001024.png\|200]] |
